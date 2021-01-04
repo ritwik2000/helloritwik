@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjOmlAYdh7P31EzA8FOjbdLSl3zB/5UMLVJ2eYd0nunEOvp1sxwf/NGWkjGF8fhdfM2PhEJmWBnVJ+4RWn3UBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ritwik\\grpc\\examples\\csharp\\Helloworld\\GreeterServer\\GreeterServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ritwik\\.nuget\\packages\\google.protobuf\\3.8.0\\google.protobuf.3.8.0.nupkg.sha512",
+    "C:\\Users\\Ritwik\\.nuget\\packages\\grpc\\2.23.0\\grpc.2.23.0.nupkg.sha512",
+    "C:\\Users\\Ritwik\\.nuget\\packages\\grpc.core\\2.23.0\\grpc.core.2.23.0.nupkg.sha512",
+    "C:\\Users\\Ritwik\\.nuget\\packages\\grpc.core.api\\2.23.0\\grpc.core.api.2.23.0.nupkg.sha512",
+    "C:\\Users\\Ritwik\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ritwik\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ritwik\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ritwik\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ritwik\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ritwik\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ritwik\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Ritwik\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
